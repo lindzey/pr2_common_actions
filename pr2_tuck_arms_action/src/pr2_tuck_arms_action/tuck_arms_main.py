@@ -51,9 +51,7 @@ NB: If two arms are specified, actions must be the same for both arms.
 
 """
 
-import roslib
 import signal
-roslib.load_manifest('pr2_tuck_arms_action')
 
 import rospy
 
